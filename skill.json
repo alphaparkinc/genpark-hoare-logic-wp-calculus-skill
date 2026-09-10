@@ -1,0 +1,14 @@
+{
+  "name": "genpark-hoare-logic-wp-calculus-skill",
+  "version": "1.0.0",
+  "description": "Hoare Logic weakest precondition (WP) calculus engine computing verification conditions for imperative program correctness.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hoare-logic",
+    "weakest-precondition",
+    "formal-methods",
+    "program-verification",
+    "semantics"
+  ]
+}
